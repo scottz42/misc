@@ -1,0 +1,37 @@
+Camping list
+
+sleeping:
+tent
+mattress
+sleeping bags
+lamp
+
+protection:
+sunscreen
+
+
+cooking:
+charcoal
+wood
+lighting good
+lighter
+pot
+pan
+
+
+food:
+water
+other drinks
+noodles
+grilling items
+bottle/can openers
+
+clothing:
+
+hiking:
+
+leisure:
+books
+
+
+

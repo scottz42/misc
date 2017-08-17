@@ -22,7 +22,10 @@ pan
 food:
 water
 other drinks
+ice
 noodles
+eggs
+vegetables
 grilling items
 bottle/can openers
 

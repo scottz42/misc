@@ -5,6 +5,7 @@ tent
 mattress
 sleeping bags
 lamp
+spare batteries
 
 protection:
 sunscreen
@@ -20,16 +21,21 @@ pan
 
 
 food:
+paper napkin
+garbage bags
 water
 other drinks
 ice
 noodles
 eggs
 vegetables
-grilling items
+fruits
+grilling items£ºpork ribs, chicken wings, sausage
 bottle/can openers
 
 clothing:
+change of clothing
+big and small towels
 
 hiking:
 
